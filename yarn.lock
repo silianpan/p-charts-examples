@@ -6242,10 +6242,10 @@ os-tmpdir@~1.0.2:
   resolved "https://registry.npm.taobao.org/os-tmpdir/download/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha1-u+Z0BseaqFxc/sdm/lc0VV36EnQ=
 
-p-charts@^1.0.1:
-  version "1.0.8"
-  resolved "https://registry.npmjs.org/p-charts/-/p-charts-1.0.8.tgz#c7f21116ef1fe8518eaf151009cb8aa94aadbb8a"
-  integrity sha512-bbka6O5lT2eSU4yJXmz2RCgd1cY9kofEl9Uqkp2LOcDFTHqzSi5eobPvetW9RwZ3GNjVH6+Y3Hs3hbNFTnqSyQ==
+p-charts@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.npmjs.org/p-charts/-/p-charts-1.0.9.tgz#210802e4f2221127aca6552deac4367e21416185"
+  integrity sha512-62OqX8SMONHzra0tjbNe38yn2bKQsepOIgdGjJwAALJtPhAoCCYeOU/3p3wHbnC6NyGaxxHj79AMvoO8Khquwg==
   dependencies:
     "@antv/data-set" "^0.11.4"
     "@antv/g2" "^3.5.17"
