@@ -1,0 +1,30 @@
+[
+    {
+        "num":2,
+        "province":"四川省",
+        "city":"成都市",
+        "district":"武侯区",
+        "area":"四川省-成都市-武侯区"
+    },
+    {
+        "num":1,
+        "province":"四川省",
+        "city":"成都市",
+        "district":"郫都区",
+        "area":"四川省-成都市-郫都区"
+    },
+    {
+        "num":1,
+        "province":"四川省",
+        "city":"成都市",
+        "district":"锦江区",
+        "area":"四川省-成都市-锦江区"
+    },
+    {
+        "num":1,
+        "province":"陕西省",
+        "city":"宝鸡市",
+        "district":"凤县",
+        "area":"陕西省-宝鸡市-凤县"
+    }
+]
