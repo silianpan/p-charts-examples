@@ -11,8 +11,8 @@ export default {
       options: {
         title: 'demo-map1-全国区域分布',
         fieldMap: {
-          name: 'province',
-          value: 'num'
+          name: 'name',
+          value: 'value'
         }
       }
     }
