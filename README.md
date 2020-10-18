@@ -1,5 +1,7 @@
 # p-charts-examples
 
+## `p-charts`支持Vue3.x版本，查看分支[vue3](https://github.com/silianpan/p-charts/tree/vue3)
+
 ## Project setup
 ```
 yarn install
