@@ -1,10 +1,7 @@
-import Vue from 'vue'
-import App from './App.vue'
-import PCharts from 'p-charts'
-Vue.use(PCharts)
+import { createApp } from "vue";
+import App from "./App.vue";
+import PCharts from "p-charts";
 
-Vue.config.productionTip = false
-
-new Vue({
-  render: h => h(App),
-}).$mount('#app')
+const app = createApp(App);
+app.use(PCharts);
+app.mount("#app");
